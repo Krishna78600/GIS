@@ -63,5 +63,7 @@ npx create-next-app@latest
 Creating a new Next.js app in /home/bisag/Desktop/map-demo.
 
 # -------------------------------------------------------------------------
+npm i sass
+npm install ol
 
 
